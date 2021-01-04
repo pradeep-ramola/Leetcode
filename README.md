@@ -1,2 +1,2 @@
 # Leetcode
-basic datastrucutre questions and implementation of concepts in python
+basic datastructure questions and implementation of concepts in python
